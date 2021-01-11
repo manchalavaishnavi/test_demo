@@ -1,0 +1,7 @@
+adds (certain) types of changes automatically; -m does not!
+
+Your status messages tells you:
+
+Changes not staged for commit: modified: SomeFolder/Scripts/app/SomeScript.js
+
+share  improve this answer  follow 
